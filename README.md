@@ -4,5 +4,4 @@ bhumika
 chandana b s 
 nisarga h 
 anushree h s 
-alfa
 pavitra
