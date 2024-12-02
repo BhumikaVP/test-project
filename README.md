@@ -1,6 +1,6 @@
 # test-project
 git
 bhumika
-chandana
-nisarga
-anushree
+chandana b s 
+nisarga h 
+anushree h s 
