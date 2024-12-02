@@ -1,5 +1,5 @@
 # test-project
-git
+github
 bhumika
 chandana b s 
 nisarga h 
